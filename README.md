@@ -48,4 +48,7 @@ database/                      reserve aux scripts SQL
 
 ## Auteurs
 
-- (a completer : noms et prenoms)
+- OUEDRAOGO Yasser Hassane
+- MAIGA Abdoulaye
+- TONDE Sidi-Mohamed
+
